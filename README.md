@@ -11,10 +11,14 @@ Comes in three flavours:
 - **TF2 - Good Weapons** has all 9 characters spawn at once with their own weapons;
 - **TF2 - Rimworld Friendly** has only 5 characters spawn at once, and the other 4 will be found in the world.
 
+# Installation
+Download the ZIP from the [Releases](https://github.com/EssGeeEich/Rimworld-TF2/releases/latest) page.
+
 The files need to be placed in the following directory:
 - Windows: %USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\PrepareCarefully
 - Linux: $HOME/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/PrepareCarefully
 
+# Requirements
 Required mods:
 - [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077)
 - [EdB Prepare Carefully](https://steamcommunity.com/sharedfiles/filedetails/?id=735106432)
